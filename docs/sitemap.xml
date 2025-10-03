@@ -1,32 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hd_chen.github.io/blog.html</loc>
-    <lastmod>2025-10-03T09:34:33.719Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hd_chen.github.io/Teaching.html</loc>
-    <lastmod>2025-10-03T09:34:33.716Z</lastmod>
+    <loc>https://hd_chen.github.io/publications-english.html</loc>
+    <lastmod>2025-10-03T14:29:34.164Z</lastmod>
   </url>
   <url>
     <loc>https://hd_chen.github.io/readme.html</loc>
     <lastmod>2025-10-03T14:50:42.962Z</lastmod>
   </url>
   <url>
-    <loc>https://hd_chen.github.io/codes.html</loc>
-    <lastmod>2025-10-03T09:34:33.719Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hd_chen.github.io/CV.html</loc>
-    <lastmod>2025-10-03T09:35:21.599Z</lastmod>
-  </url>
-  <url>
     <loc>https://hd_chen.github.io/books.html</loc>
     <lastmod>2025-10-03T14:48:49.141Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hd_chen.github.io/Chinese.html</loc>
-    <lastmod>2025-10-03T09:34:33.716Z</lastmod>
   </url>
   <url>
     <loc>https://hd_chen.github.io/index.html</loc>
@@ -35,9 +19,5 @@
   <url>
     <loc>https://hd_chen.github.io/about.html</loc>
     <lastmod>2025-10-03T09:34:33.719Z</lastmod>
-  </url>
-  <url>
-    <loc>https://hd_chen.github.io/publications-english.html</loc>
-    <lastmod>2025-10-03T14:29:34.164Z</lastmod>
   </url>
 </urlset>
