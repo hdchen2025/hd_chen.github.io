@@ -1,6 +1,6 @@
 ---
-title: "Yujun Lian"
-image: images/lianyujun_2025.png
+title: "Hongda CHEN"
+image: images/hongdachen_2025.jpg 
 about:
   id: hero-heading
   template: trestles
@@ -8,55 +8,56 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: arlionn@163.com
-      href: mailto:arlionn@163.com
-    - icon: github
-      text: arlionn
-      href: https://github.com/lianyujun
-    - icon: book
-      text: Google Scholar
-      href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
+      text: chenhongda at pumch.cn
+      href: mailto:chenhongda@pumch.cn
+    # - icon: github
+      # text: arlionn
+      # href: https://github.com/hdchen2025
+    - icon: publication
+      text: PubMed
+      href: https://pubmed.ncbi.nlm.nih.gov/?term=(%22Chen%20Hongda%22%5BAuthor%5D)%20AND%20(%22Chinese%20Academy%20of%20Medical%20Sciences%22%5BAffiliation%5D%20OR%20%22Peking%20Union%20Medical%20College%20Hospital%22%5BAffiliation%5D%20OR%20%22German%20Cancer%20Research%20Center%22%5BAffiliation%5D)&sort=date
     - icon: fingerprint
       text: ORCID
-      href: https://orcid.org/0000-0002-2011-7535
-    - icon: brands zhihu
-      text: 知乎
-      href: https://www.zhihu.com/people/arlionn/
-    - icon: brands weibo
-      text: 微博
-      href: https://weibo.com/arlionn
-    - icon: brands xing
-      text: 小红书
-      href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
+      href: https://orcid.org/my-orcid?orcid=0000-0001-6171-1162
+    # - #icon: brands zhihu
+      # text: 知乎
+      # href: https://www.zhihu.com/people/arlionn/
+    #- # icon: brands weibo
+      # text: 微博
+      # href: https://weibo.com/arlionn
+    # - # icon: brands xing
+      # text: 小红书
+      # href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
     - icon: solid user
       text: 工作主页
-      href: https://lingnan.sysu.edu.cn/faculty/LianYujun
-    - icon: brands home
-      text: 连享会
-      href: https://www.lianxh.cn
-    - icon: 📝
-      text: CV
-      href: CV.pdf  
+      href: https://www.pumch.cn/temporary/doctor_details/33670.html
+    # - # icon: brands home
+      # text: 连享会
+      # href: https://www.lianxh.cn
+    # - icon: 📝
+      # text: CV
+      # href: CV.pdf  
 ---
 
 ::: {#hero-heading}
 
-Professor Lian's research interests lie in the field of causal inference methods and stochastic frontier analysis, with specific applications in investment, trade credit, and supply chain dynamics. He has been actively researching topics such as supply chain finance, leverage adjustment, trade credit, and innovation. He teaches courses in Financial Econometrics and Applied Econometrics. 
+Dr. Hongda Chen is a Professor at Peking Union Medical College Hospital (PUMCH) and the chief of the Center for Prevention and Early Intervention of the National Infrastructure for Translational Medicine (PUMCH branch). He received his Bachelor of Preventive Medicine and Master of Epidemiology and Biostatistics from Peking University (2005–2012), and his PhD in Cancer Epidemiology from the German Cancer Research Center (DKFZ) and Heidelberg University (2013–2016), followed by postdoctoral research at DKFZ.
 
-His teaching abilities have been highly regarded, as evidenced by his consecutive perfect teaching evaluations in the MBA corporate finance course over a span of three years. He was was awarded the title of *My Favorite Teacher* in 2022 by Lignan College. 
+His research centers on cancer epidemiology, with a particular focus on cancer prevention and early detection. Dr. Chen has published more than 80 peer-reviewed papers in leading journals such as Science Bulletin, Gut, Clinical Cancer Research, Clinical Gastroenterology and Hepatology, and American Journal of Gastroenterology, with an H-index of 37. He has led over 10 major research projects, including grants from the National Natural Science Foundation of China and national key R&D programs. In 2025, he was recognized by Stanford University and Elsevier as one of the world’s top 2% most-cited scientists.
 
-With his expertise in applied econometrics, he has made significant contributions to the [Stata](https://www.stata.com/) community by developing several popular packages, including `winsor2`, `xtbalance`, `bdiff`, and `sftt`, which have been widely used by researchers in various fields. He is one of the initiators of the Chinese Stata Users Group Meeting, which is one of the imporat meeting of Stata Corporation. He has been invited several times as a guest speaker to deliver keynote speeches ([2018th](https://www.stata.com/meeting/china18/), [2020th](https://www.stata.com/meeting/china20-Uone-Tech/), [2021th](https://www.stata.com/meeting/china21-Uone-Tech/), [2022th](https://www.stata.com/meeting/china22-Uone-Tech/), [2023th](https://www.stata.com/meeting/china23-Uone-Tech/)).
-
-He is also the founder of the website <https://www.lianxh.cn>, one of the largest academic websites in mainland China specializing in management and economics. Currently, it has published over 1300 articles introducing econometric and statistical methods. The WeChat official account lianxh_cn, established based on this website, has accumulated over 280,000 subscribers, with a total reading volume exceeding 20 million and a daily average reading volume exceeding 10,000.
+He serves on several national academic committees related to cancer screening and prevention, and as reviewer for leading journals including BMJ, Nature Medicine, JAMA Internal Medicine, and Lancet Gastroenterology & Hepatology.
 
 
-## Background
+## Education Background
 
-- Jan 2024 - Aug 2024: Visiting Professor, DeGroote School of Business, McMaster Univeristy. 
-- Aug 2015 - Jan 2016: Visiting Scholar, MIT Sloan School of Management, Massachusetts Institute of Technology
-- 2011 - Present: Associate Professor, Lingnan College, Sun Yat-sen University, specializing in Quantitative Economics
-- 2007-2010: Lecturer, Department of Finance, Lingnan College, Sun Yat-sen University
-- 2001-2007: Ph.D. in Economics, Xi'an Jiaotong University, China, specializing in Econometrics
-- 1997-2001: Bachelor of Engineering, Xi'an Jiaotong University, China, majoring in Materials Science.
+- Sep. 2005 - Jul. 2010  Peking University, China, Bechelor in Preventive Medicine
+- Sep. 2010 - Jul. 2012  Peking University, China, Master in Epidemiology and Biostatistics
+- Jan. 2013 - Jun. 2016  University of Heidelberg, German Cancer Research Center, Germany, Ph.D. in Epidemiology
 
+## Working Experience
+- Feb. 2016 – Jun. 2016 German Cancer Research Center (DKFZ), Postdoc Research Fellow
+- Aug. 2016 – Aug. 2019 National Cancer Center/Cancer Hospital of Chinese Academy of Medical Sciences, Office of Cancer Screening, assistant professor
+- Sep. 2019 – Feb.2022 National Cancer Center/Cancer Hospital of Chinese Academy of Medical Sciences, Office of Cancer Screening, associated professor
+- Sep. 2019 – Sep.2024 Peking Union Medical College Hospital (PUCMH), Center for Prevention and Early Intervention, associated professor
+- Sep. 2025 - present Peking Union Medical College Hospital (PUCMH), Center for Prevention and Early Intervention, professor
 :::
