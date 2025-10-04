@@ -1,0 +1,67 @@
+---
+title: "Research Interests"
+page-layout: full
+format:
+  html:
+    toc: false
+    css: research.css
+    title-block-style: none
+---
+
+::: {.research-grid}
+
+::: {.research-card}
+<img src="images/research/epidemiology.jpg" alt="Cancer Epidemiology" />
+
+### 1. Cancer Epidemiology
+*Cancer Epidemiology and Global Burden of Disease*
+
+Cancer remains one of the leading causes of morbidity and mortality worldwide. Quantifying the epidemiology, temporal trends, and attributable risk factors of cancer is essential for guiding prevention and public health strategies. My research focuses on cancer epidemiology and global burden assessments, using population-based registries and global burden databases to characterize incidence, mortality, and preventable risk factors in China and worldwide.
+:::
+
+::: {.research-card}
+<img src="images/research/screening.jpg" alt="Colorectal Cancer Screening" />
+
+### 2. Colorectal Cancer Screening Strategies
+*Cohort studies, population-based programs, and RCTs.*
+
+Colorectal cancer is among the most preventable cancers through effective screening. Designing optimal strategies for large populations such as in China remains a major challenge. I conduct cohort-based studies, population-based investigations, and large-scale randomized controlled trials (RCTs) to evaluate participation, diagnostic performance, and long-term outcomes of screening methods (e.g., colonoscopy, FIT), providing evidence for population-adapted screening pathways.
+:::
+
+::: {.research-card}
+<img src="images/research/biomarker.jpg" alt="Novel Screening Technologies" />
+
+### 3. Novel Screening Technologies
+*Multi-omics biomarkers and risk prediction models.*
+
+Traditional screening tools have limitations in sensitivity, cost-effectiveness, and adaptability. My work emphasizes the development and validation of novel screening technologies, including multi-omics biomarkers (genomics, methylation, microbiome, metabolomics, proteomics) and advanced risk prediction models. I particularly focus on integrating enviromental risk scores (ERS), polygenic risk scores (PRS), metagenomics risk scores (MRS), and proteomic markers to establish precise and individualized cancer risk prediction tools.
+:::
+
+::: {.research-card}
+<img src="images/research/modeling.jpg" alt="Health Economics" />
+
+### 4. Health Economics & Modeling
+*Microsimulation and cost-effectiveness evaluation.*
+
+Beyond clinical performance, cancer screening strategies must be economically viable. I employ microsimulation modeling and decision-analytic approaches to project long-term outcomes, cost-effectiveness, and resource implications of various screening strategies. These studies provide robust evidence for healthcare decision-making and policy formulation in cancer prevention and early detection.
+:::
+
+::: {.research-card}
+<img src="images/research/ai.jpg" alt="AI and LLM" />
+
+### 5. AI & Large Language Models
+*AI-driven imaging, NLP, and protocol evaluation.*
+
+The rapid progress of artificial intelligence (AI) and large language models (LLMs) offers unprecedented opportunities for cancer screening and clinical research. I explore AI-driven imaging, natural language processing, and decision-support systems to improve colorectal cancer risk stratification and screening management. 
+:::
+
+::: {.research-card}
+<img src="images/research/quality.jpg" alt="Clinical Research Quality" />
+
+### 6. Methodology & Quality Control
+*Improving rigor in clinical research.*
+
+High-quality clinical research is fundamental to evidence-based medicine, yet many studies face challenges in design, implementation, and reporting. I lead the development of methodological evaluation frameworks and intelligent support systems for clinical research, enabling comprehensive quality control across the research lifecycle. These initiatives improve scientific rigor and reproducibility, contributing to the advancement of clinical research quality in China and globally. In parallel, I investigate the use of LLMs for automated evaluation of clinical trial protocols, aiming to enhance the quality and efficiency of cancer research.
+:::
+
+:::

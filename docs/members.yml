@@ -60,7 +60,7 @@
   tags: [PhD]
   order: 3
 
-- name: Xi-Ran Cheng
+- name: Xin-Ran Cheng
   role: Master Student
   photo: images/members/moren.jpg
   bio: Comobidity of cancer
@@ -97,14 +97,14 @@
   tags: [Alumni]
   order: 5
 
-- name: Yu-Han Zhang
+- name: Dr. Yu-Han Zhang
   role: Alumini
   photo: images/members/moren.jpg
   bio: Microbiomics in colorectal cancer
   tags: [Alumni]
   order: 5 
 
-- name: Bin Lu
+- name: Dr. Bin Lu
   role: Alumini
   photo: images/members/moren.jpg
   bio: Modelling of colorecta cancer screening effectiveness and cost-effectiveness

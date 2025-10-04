@@ -1,16 +1,34 @@
 ---
 title: "Publications"
+format:
+  html:
+    toc: false
+    css: publications.css
+page-layout: full
 ---
 
 ::: callout-note
 ## Links
 
-> -   **ORCID**: <https://orcid.org/my-orcid?orcid=0000-0001-6171-1162>
-> -   **PubMed**: <https://pubmed.ncbi.nlm.nih.gov/?term=(%22Chen%20Hongda%22%5BAuthor%5D)%20AND%20(%22Chinese%20Academy%20of%20Medical%20Sciences%22%5BAffiliation%5D%20OR%20%22Peking%20Union%20Medical%20College%20Hospital%22%5BAffiliation%5D%20OR%20%22German%20Cancer%20Research%20Center%22%5BAffiliation%5D)&sort=date>
+> - **ORCID**: <https://orcid.org/0000-0001-6171-1162>  
+> - **PubMed**: [Search Publications](https://pubmed.ncbi.nlm.nih.gov/?term=(%22Chen%20Hongda%22%5BAuthor%5D)%20AND%20(%22Chinese%20Academy%20of%20Medical%20Sciences%22%5BAffiliation%5D%20OR%20%22Peking%20Union%20Medical%20College%20Hospital%22%5BAffiliation%5D%20OR%20%22German%20Cancer%20Research%20Center%22%5BAffiliation%5D))
 :::
 
+<div class="year-nav">
+<a href="#featured">Featured</a> |
+<a href="#2025">2025</a> |
+<a href="#2024">2024</a> |
+<a href="#2022-2023">2022–2023</a> |
+<a href="#2020-2021">2020–2021</a> |
+<a href="#2018-2019">2018–2019</a> |
+<a href="#2014-2017">2014–2017</a>
+</div>
 
-## Featured Works
+---
+
+::: callout-note
+
+## Featured Works {#featured}
 > ### **Evaluation of Cancer Screening Strategies**
 
 - **Chen H**, Li N#, Ren J, Feng X, Lyu Z, Wei L, Li X, Guo L, Zheng Z, Zou S, Zhang Y, Li J, Zhang K, Chen W, Dai M, He J. Participation and yield of a population-based colorectal cancer screening programme in China. *Gut*. 2019;68(8):1450-1457. [Link](https://pubmed.ncbi.nlm.nih.gov/30377193/)
@@ -32,7 +50,7 @@ title: "Publications"
 
 
 ## Full Academic Papers Published in English
-## 2025
+## 2025 {#2025}
 > leading author
 
 1. Guo L#*, Wang L#, Cai L#, Zhang Y#, Feng X#, Zhu C, Gao W, Cardoso R, Yang H, Dai M, Brenner H, **Chen H**. Global Distribution of Colorectal Cancer Staging at Diagnosis: An Evidence Synthesis. *Clin Gastroenterol Hepatol*. 2024 Dec 16:S1542-3565(24)01104-2. [Link](https://pubmed.ncbi.nlm.nih.gov/39694204/)
@@ -46,6 +64,7 @@ title: "Publications"
 9. Song K#, Luo J#, Zhang Y, Wu D, **Chen H**, Dai M. Gut microbiome mediates the associations between lifestyle factors and risk of colorectal high-risk adenoma: results from a population-based cohort study. mSystems. 2025 Sep 22:e0093325.
 10. Song K#, Zhang S#, Luo J, Lu B, Li J, Zhou Y, Chen Y, Zhang Y, Yang A, **Chen H**, Wu D. Risk of Metachronous Advanced Neoplasia After Colonoscopy in Patients With Different Index Findings. *J Gastroenterol Hepatol*. 2025 Aug;40(8):1942-1953.
 11. Yan Y#, Luo C#, Chen Y, Cheng X, Luo J, Zhou Y, Li N, Zhang Y, Lu B, He Z, Song K, Wu D, **Chen H**, Dai M. Evaluation of a novel approach for colorectal cancer screening using an intelligent tool (INTEL-PATH CRC): a protocol for a multicentre, real-world, cohort study. BMJ Open. 2025 Jul 18;15(7):e098679.  
+
 > contributting author
 
 1. Li N, Luo C, Chen Y, Cheng X, Luo J, Yan Y, Zhang Y, Lu B, He Z, Song K, Wu D, Tian J, Miao X, **Chen H**, Hu F, Dai M. Identification and validation of blood leukocyte DNA methylation biomarkers for early detection of colorectal neoplasm. Chin Med J (Engl). 2025 Jun 6. doi: 10.1097/CM9.0000000000003681. Epub ahead of print. PMID: 40474333.
@@ -55,7 +74,7 @@ title: "Publications"
 5. Li N*, Song K*, **Chen H**, Dai M#. Advance and challenge of DNA methylation as cancer biomarkers for risk stratification, screening and early detection. J Natl Cancer Cent. 2025 Jan 30;5(2):108-112.
 6. Lu Z, Chen C, Zhang H, Li B, Liu Y, Guo J, Xu R, Shi K, Ma Q, Zhang M, Cai Y, Huang J, Geng H, Fan L, Ning C, Li Y, Chen S, Tian W, Hu K, Li H, Yang X, Huang C, Wei Y, Zhu X, Li X, Xiong Z, Cai M, Wang X, Zhang S, **Chen H**, Dai M, Chen K, Jin M, Jin M, Zhu Y, Tian J, Miao X. Characterization of cis-regulatory elements and functional variants in colorectal cancer using epigenomics and CRISPRi screenings. Nat Cancer. 2025 Aug 25. doi: 10.1038/s43018-025-01031-z. Epub ahead of print. PMID: 40854986.
 
-## 2024
+## 2024 {#2024}
 > leading author
 
 1. Lu B, Luo J, Yan Y, Zhang Y, Luo C, Li N, Zhou Y, Wu D, Dai M*, **Chen H**. Evaluation of long-term benefits and cost-effectiveness of nation-wide colorectal cancer screening strategies in China in 2020–2060: a modelling analysis. *Lancet Reg Health West Pac*. 2024;51:101172.
@@ -78,13 +97,12 @@ title: "Publications"
 
 10. Yang Z, Zhou Y, Han Z, He K, Zhang Y, Wu D, **Chen H**. The effects of probiotics supplementation on Helicobacter pylori standard treatment: an umbrella review of systematic reviews with meta-analyses. Sci Rep. 2024 May 2;14(1):10069.
 
-    
+ > contributting author  
 
-    > contributting author  
 1. Guo L, Zhu C, Cai L, Zhang X, Fang Y, **Chen H**, Yang H. Global burden of lung cancer in 2022 and projected burden in 2050. Chin Med J (Engl). 2024 Nov 5;137(21):2577-2582.
 2. Wang M, **Chen H**, Wong MCS, Huang J, Jin Y, Zheng ZJ. Effects of screening coverage and screening quality assurance on cervical cancer mortality: Implication for integrated framework to monitor global implementation of cervical cancer screening programmes. J Glob Health. 2024 Oct 25;14:04189.
 
-## 2022-2023
+## 2022-2023 {#2022-2023}
 > leading author
 
 1. **Chen H#**, Shi J#, Lu M, Li Y, Du L, Liao X, Wei D, Dong D, Gao Y, Zhu C, Ying R, Zheng W, Yan S, Xiao H, Zhang J, Kong Y, Li F, Zou S, Liu C, Wang H, Zhang Y, Lu B, Luo C, Cai J, Tian J, Miao X, Ding K, Brenner H, Dai M. Comparison of Colonoscopy, Fecal Immunochemical Test, and Risk-adapted Approach in a Colorectal Cancer Screening Trial (TARGET-C). *Clin Gastroenterol Hepatol*. 2023;21(3):808-818.
@@ -96,6 +114,7 @@ title: "Publications"
 7. Lu M, Zhang Y, Cai J, Lu B, Luo C, **Chen H**, Dai M. Head-to-head comparison of a risk-adapted screening strategy using various risk prediction models in detecting colorectal neoplasm. *J Gastroenterol Hepatol*. 2022;37(7):1244-1252.
 8. Cai J, **Chen H#**, Lu M, Zhang Y, Lu B, Luo C, Feng X, You L, Dai M, Zhao Y. Association between Temporal Glycemic Change and Risk of Pancreatic Cancer in Men: A Prospective Cohort Study. Cancers (Basel). 2022 Jul 13;14(14):3403.
 9. Luo C, Li N, Lu B, Cai J, Lu M, Zhang Y, **Chen H**, Dai M. Global and regional trends in incidence and mortality of female breast cancer and associated factors at national level in 2000 to 2019. *Chin Med J (Engl)*. 2022;135(1):42-51.
+
 > contributting author  
 
 1. Song S, Pei L, **Chen H**, Zhang Y, Sun C, Yi J, Huang Y. Analysis of hospital and payer costs of care: aggressive warming versus routine warming in abdominal major surgery. Front Public Health. 2023 Nov 2;11:1256254.
@@ -103,7 +122,7 @@ title: "Publications"
 3. Wu Z, Tan F, Yang Z, Wang F, Cao W, Qin C, Dong X, Zheng Y, Luo Z, Zhao L, Yu Y, Xu Y, Ren J, Shi J, **Chen H**, Li J, Tang W, Shen S, Wu N, Chen W, Li N, He J. Sex disparity of lung cancer risk in non-smokers: a multicenter population-based prospective study based on China National Lung Cancer Screening Program. Chin Med J (Engl). 2022 Jun 5;135(11):1331-1339.
 4. Wu Z, Xie S, Wang F, Chen S, Su K, Li F, Cui H, Cao W, Yu Y, Qin C, Zheng Y, Dong X, Yang Z, Luo Z, Zhao L, Xu Y, Chen H, Li J, Wang G, Wu S, Dai M, Li N, He J. BMI changes and the risk of lung cancer in male never-smokers: A prospective cohort study. Cancer Med. 2022 Mar;11(5):1336-1346.
 
-## 2020-2021
+## 2020-2021 {#2020-2021}
 > leading author
 
 1. Li N#, Lu B#, Luo C, Cai J, Lu M, Zhang Y, **Chen H**, Dai M. Incidence, mortality, survival, risk factor and screening of colorectal cancer: A comparison among China, Europe, and northern America. *Cancer Lett*. 2021;522:255-268. 
@@ -117,6 +136,7 @@ title: "Publications"
 9. **Chen H**, Lu M, Zhang YH, Dai M*. Divergent detection rates of fecal immunochemical test and questionnaire-based risk assessment for detecting proximal and distal advanced colorectal adenomas. *Chin Med J (Engl)*. 2021;134(5):605-607.
 10. **Chen H**, Lu M, Liu C, Zou S, Du L, Liao X, Dong D, Wei D, Gao Y, Zhu C, Zhu L, Zheng W, Xiao H, Kong Y, Yin H, Zhou H, Ying R, Wang B, Zhang J, Zhang X, Zhang Q, Zhang X, Zhang Y, Wang H, Guo L, Liu L, Ren J, Shi J, Li N, Miao X, Brenner H, Dai M. Comparative Evaluation of Participation and Diagnostic Yield of Colonoscopy vs Fecal Immunochemical Test vs Risk-Adapted Screening in Colorectal Cancer Screening: Interim Analysis of a Multicenter Randomized Controlled Trial (TARGET-C). *Am J Gastroenterol*. 2020;115(8):1264-1274. 
 11. Wang H, Zhang B, Li X, Zhou D, Li Y, Jia S, Qi S, Xu A, Zhao X, Wang J, Bai Z, Cao B, Li N, Dai M, **Chen H**, Huang J. Identification and Validation of Novel Serum Autoantibody Biomarkers for Early Detection of Colorectal Cancer and Advanced Adenoma. *Front Oncol*. 2020;10:1081.
+
 > contributting author
 
 1. Wang H, Zhu Y, **Chen H**, Yang N, Wang X, Li B, Ying P, He H, Cai Y, Zhang M, Niu S, Li Y, Lu Z, Peng X, Zou D, Zhong R, Chang J, Dai M, Tian J, Miao X. Colorectal cancer risk variant rs7017386 modulates two oncogenic lncRNAs expression via ATF1-mediated long-range chromatin loop. Cancer Lett. 2021 Oct 10;518:140-151.
@@ -127,7 +147,7 @@ title: "Publications"
 6. Lyu Z, Li N, Chen S, Wang G, Tan F, Feng X, Li X, Wen Y, Yang Z, Wang Y, Li J, **Chen H**, Lin C, Ren J, Shi J, Wu S, Dai M, He J. Risk prediction model for lung cancer incorporating metabolic markers: Development and internal validation in a Chinese population. Cancer Med. 2020 Jun;9(11):3983-3994.
 7. Guo L, **Chen H**, Wang G, Lyu Z, Feng X, Wei L, Li X, Wen Y, Lu M, Chen Y, Shi J, Ren J, Lin C, Yu X, Chen S, Wu S, Li N, Dai M, He J. Development of a risk score for colorectal cancer in Chinese males: A prospective cohort study. Cancer Med. 2020 Jan;9(2):816-823.
 
-## 2018-2019
+## 2018-2019 {#2018-2019}
 > leading author
 
 1. **Chen H#**, Li N#, Ren J, Feng X, Lyu Z, Wei L, Li X, Guo L, Zheng Z, Zou S, Zhang Y, Li J, Zhang K, Chen W, Dai M, He J. Participation and yield of a population-based colorectal cancer screening programme in China. *Gut*. 2019;68(8):1450-1457.  
@@ -136,15 +156,17 @@ title: "Publications"
 4. **Chen H#**, Li N#, Shi J, Ren J, Liu C, Zhang Y, Jiang Z, Zhang Z, Dai M. Comparative evaluation of novel screening strategies for colorectal cancer screening in China (TARGET-C): a study protocol for a multicentre randomised controlled trial. *BMJ Open*. 2019;9(4):e025935.
 5. **Chen H#**, Zhang Y#, Li S, Li N, Chen Y, Zhang B, Qu C, Ding H, Huang J, Dai M. Direct comparison of five serum biomarkers in early diagnosis of hepatocellular carcinoma. *Cancer Manag Res*. 2018 Jul 10;10:1947-1958.  
 6. Li S, Li X, Xu A, Zhang B, He X, **Chen H**, Huang J. Screening and clinical evaluation of dominant peptides of centromere protein F antigen for early diagnosis of hepatocellular carcinoma. *Mol Med Rep*. 2018 Mar;17(3):4720-4728. 
-> contributting author  
 
+> contributting author
+  
 1. Tang W, Peng Q, Lyu Y, Feng X, Li X, Wei L, Li N, **Chen H**, Chen W, Dai M, Wu N, Li J, Huang Y. Risk prediction models for lung cancer: Perspectives and dissemination. Chin J Cancer Res. 2019 Apr;31(2):316-328.
 2. Lyu Z, Li N, Wang G, Feng X, Chen S, Su K, Li F, Wei L, Li X, Xie S, Guo L, Chen Y, Tan F, Yin J, Cui H, **Chen H**, Li J, Ren J, Shi J, Wu S, Dai M, He J. Independent and joint associations of blood lipids and lipoproteins with lung cancer risk in Chinese males: A prospective cohort study. Int J Cancer. 2019 Jun 15;144(12):2972-2984.
 3. Li X, **Chen H**, Wang G, Feng X, Lyu Z, Wei L, Wen Y, Chen S, Wu S, Hang D, Dai M, Li N, He J. Metabolic Syndrome Components and the Risk of Colorectal Cancer: A Population-Based Prospective Study in Chinese Men. Front Oncol. 2019 Oct 17;9:1047.
 4. Guo L, **Chen H**, Wang G, Lyu Z, Feng X, Wei L, Li X, Wen Y, Lu M, Chen Y, Shi J, Ren J, Lin C, Yu X, Chen S, Wu S, Li N, Dai M, He J. Development of a risk score for colorectal cancer in Chinese males: A prospective cohort study. Cancer Med. 2020 Jan;9(2):816-823.
 5. Wei L, Li N, Wang G, Feng X, Lyu Z, Li X, Wen Y, Chen Y, **Chen H**, Chen S, Wu S, Dai M, He J. Waist Circumference Might Be a Predictor of Primary Liver Cancer: A Population-Based Cohort Study. Front Oncol. 2018 Dec 12;8:607.
 
-## 2014-2017
+## 2014-2017 {#2014-2017}
+
 > leading author
 
 1. **Chen H**, Werner S, Brenner H. Fresh vs Frozen Samples and Ambient Temperature Have Little Effect on Detection of Colorectal Cancer or Adenomas by a Fecal Immunochemical Test in a Colorectal Cancer Screening Cohort in Germany. *Clin Gastroenterol Hepatol*. 2017;15(10):1547-1556.e5.  
@@ -154,6 +176,7 @@ title: "Publications"
 5. **Chen H**, Chen XZ, Waterboer T, Castro FA, Brenner H. Viral infections and colorectal cancer: a systematic review of epidemiological studies. *Int J Cancer*. 2015;137(1):12-24. 
 6. **Chen H**, Werner S, Tao S, Zörnig I, Brenner H. Blood autoantibodies against tumor-associated antigens as biomarkers in early detection of colorectal cancer. *Cancer Lett*. 2014;346(2):178-87.
 7. Peng C, **Chen H#**, Wallwiener M, Modugno C, Cuk K, Madhavan D, Trumpp A, Heil J, Marmé F, Nees J, Riethdorf S, Schott S, Sohn C, Pantel K, Schneeweiss A, Yang R, Burwinkel B. Plasma S100P level as a novel prognostic marker of metastatic breast cancer. Breast Cancer Res Treat. 2016 Jun;157(2):329-338.
+
 > contributting author
 
 1. Feng X, Wang G, Li N, Lyu Z, Chen S, Wei L, Chen Y, Xie S, Yang W, Yin J, Cui H, **Chen H**, Ren J, Shi J, Wu S, Dai M, He J. The association between fasting blood glucose and the risk of primary liver cancer in Chinese males: a population-based prospective study. Br J Cancer. 2017 Oct 24;117(9):1405-1411.

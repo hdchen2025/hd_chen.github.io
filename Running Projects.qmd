@@ -1,0 +1,66 @@
+---
+title: "Running Projects"
+page-layout: full
+format:
+  html:
+    css: project.css
+---
+
+Our group is currently conducting several interdisciplinary projects focusing on **precision prevention, early detection, and clinical research methodology**.  
+These projects integrate **genomics, microbiome, AI/LLMs, and health policy modeling**, aiming to transform colorectal cancer screening and prevention strategies in China and globally.
+
+---
+
+::: {.projects-grid}
+
+::: {.project-card}
+### Risk-adapted Screening for Colorectal Cancer
+We conducted the first large-scale randomized controlled trial (RCT) in China to compare the feasibility, participation, and diagnostic yield of risk-adapted colorectal cancer (CRC) screening with colonoscopy and fecal immunochemical test (FIT) — the TARGET-C trial. Approximately 20,000 participants aged 50–74 years were enrolled. The trial has built a comprehensive database and biobank, forming a robust platform for future CRC prevention and early detection research.
+:::
+
+::: {.project-card}
+### Polygenic Risk Score for Colorectal Cancer
+We are developing and validating polygenic risk score (PRS) models by integrating data from the China Kadoorie Biobank and multiple population-based screening cohorts. This project aims to provide precise estimation of individual absolute risk and enable large-scale, genetics-informed **risk-adapted screening**.
+:::
+
+::: {.project-card}
+### Gut Microbiome and CRC
+We investigate gut microbial signatures and host–microbiome interactions influencing CRC development. Integrating metagenomic, lifestyle, and genetic data, we build **metagenomic risk scores (MRS)** for early detection, and study how environmental and genetic factors shape the microbiome and carcinogenesis.
+:::
+
+::: {.project-card}
+### AI and Large Language Models for Cancer Prevention
+Developing AI- and LLM-driven platforms for the end-to-end management of cancer screening — from intelligent risk assessment to personalized follow-up. A pilot study, **INTEL-PATH CRC**, is evaluating the feasibility of AI-assisted screening strategies in real-world settings.
+:::
+
+::: {.project-card}
+### Health Economics & Policy Simulation
+Applying microsimulation and decision-analytic models to evaluate the long-term effectiveness and cost-effectiveness of both **primary (risk factor control)** and **secondary (screening-based)** prevention strategies for CRC. These analyses guide evidence-based policy and optimize prevention resources.
+:::
+
+::: {.project-card}
+### Lifestyle and Cancer Comorbidity
+Investigating how lifestyle factors (diet, physical activity, smoking, alcohol, metabolic status) influence comorbidity patterns between cancer and chronic diseases. The project identifies modifiable risks and promotes integrated prevention and survivorship care.
+:::
+
+::: {.project-card}
+### Plasma Protein Biomarker for Cancer Screening
+Using mass spectrometry–based plasma proteomics to discover and validate circulating protein biomarkers for early colorectal cancer detection. By integrating proteomic, genetic, and clinical data, this project enhances non-invasive early-detection tools.
+:::
+
+::: {.project-card}
+### CREDIT: Clinical Research Intelligent Design & Evaluation Tool
+**CREDIT** is an AI-empowered platform for clinical research design, evaluation, and quality management. Leveraging large language models and knowledge-graph reasoning, it assesses study rigor and provides automated feedback aligned with international standards (CONSORT, STROBE, PRISMA).
+:::
+
+::: {.project-card}
+### Integrated Screening for Upper Gastrointestinal and Colorectal Cancer
+Developing a combined screening strategy for upper GI and colorectal cancers in high-altitude Tibetan populations, integrating endoscopic and non-invasive methods to improve efficiency and explore shared etiological pathways.
+:::
+
+::: {.project-card}
+### Global Lifetime Risk and Preventable Burden of Colorectal Cancer
+Quantifying the global lifetime risk and preventable incidence of colorectal cancer attributable to modifiable risk factors (2022–2050) across 185 countries, using comparative modeling to guide international prevention policies.
+:::
+
+:::

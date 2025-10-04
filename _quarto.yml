@@ -22,9 +22,9 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "Research Interest"
-        href: books.qmd
+        href: research.qmd
       - text: "Running projects"
-        href: books.qmd
+        href: research.qmd
       - text: "Group Members"
         href: members.qmd
       - text: "Publications"
