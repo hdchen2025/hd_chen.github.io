@@ -24,7 +24,7 @@ website:
       - text: "Research Interest"
         href: research.qmd
       - text: "Running projects"
-        href: research.qmd
+        href: Running Projects.qmd
       - text: "Group Members"
         href: members.qmd
       - text: "Publications"
