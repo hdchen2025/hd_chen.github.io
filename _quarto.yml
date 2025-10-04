@@ -1,25 +1,24 @@
 project:
   type: website
   output-dir: docs
-  
+  # 把这些原样复制到发布目录（docs/）
+  resources:
+    - members.yml           # 现在在根目录
+    - data/**               # 若以后改放 data/members.yml 也能被拷贝
+    - images/**             # 成员照片等静态资源
+
 website:
   page-navigation: true
   title: "Dr. Hongda Chen's Lab at PUMCH"
+  # 若这是用户主页仓库（hdchen2025.github.io），建议改成你的实际域名：
+  # site-url: https://hdchen2025.github.io
   site-url: https://hd_chen.github.io
   favicon: images/site-logo.png
-  repo-url: https://github.com/hdchen2025/hd_chen.github.io
-  repo-actions: [edit, issue]
-  
-  # page-footer:
-    # left: |
-      # [lianxh.cn](https://www.lianxh.cn)<br>
-    # right: |
-      # Made with [Quarto](https://quarto.org/)<br>
-    
-  navbar: 
+
+  navbar:
     background: "#A9CCE3"
     search: true
-    right: 
+    right:
       - text: "Home"
         href: index.qmd
       - text: "Research Interest"
@@ -27,21 +26,20 @@ website:
       - text: "Running projects"
         href: books.qmd
       - text: "Group Members"
-        href: books.qmd    
+        href: members.qmd
       - text: "Publications"
         href: publications-english.qmd
-      # - text: "Blogs"
-      # href: blog.qmd
-      # - text: "Codes"
-      # href: codes.qmd
-      # - text: "中文"
-      # href: Chinese.qmd
-      #- text: "CV"
-      # href: CV.pdf
 
 format:
   html:
     theme: styles.scss
-    toc: true            # 启用目录
-    toc-position: right  # 将目录放置在页面的右侧
-    toc-depth: 3         # 设置目录的深度，数字越大，目录越详细
+    css: 
+      - members.css
+    toc: true               # 默认开启目录
+    toc-position: right
+    toc-depth: 3
+    grid:
+      body-width: 1280px
+      margin-width: 200px
+      gutter-width: 1.5rem
+      

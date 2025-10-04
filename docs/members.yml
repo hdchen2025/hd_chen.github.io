@@ -1,0 +1,112 @@
+# 建议把头像放到 images/members/ 下
+- name: Dr. Hongda Chen
+  role: PI · Professor
+  photo: images/members/chenhongda.png
+  bio: Cancer Epidemiology; Cancer screening; PRS; microbiome; Multi-omics; risk-adapted screening
+  email: chenhongda@pumch.cn
+  orcid: "https://orcid.org/my-orcid?orcid=0000-0001-6171-1162"
+  pubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=(%22Chen%20Hongda%22%5BAuthor%5D)%20AND%20(%22Chinese%20Academy%20of%20Medical%20Sciences%22%5BAffiliation%5D%20OR%20%22Peking%20Union%20Medical%20College%20Hospital%22%5BAffiliation%5D%20OR%20%22German%20Cancer%20Research%20Center%22%5BAffiliation%5D)&sort=date"
+  tags: [PI]
+  order: 1
+
+- name: Dr. Yuelun Zhang
+  role: Scientist
+  photo: images/members/moren.jpg
+  bio: Clinical epidemiology; Evidence-based medicine.
+  email: yuelunzhang@outlook.com
+  orcid: "https://orcid.org/0000-0001-7990-9003"
+  tags: [Scientist]
+  order: 2
+
+- name: Chen-Yu Luo
+  role: PhD Candidate
+  photo: images/members/moren.jpg
+  bio: Polygenic risk score × lifestyle
+  tags: [PhD]
+  order: 3
+
+- name: Jia-Hui Luo
+  role: PhD Candidate
+  photo: images/members/moren.jpg
+  bio: Microbiome in colorectal cancer 
+  tags: [PhD]
+  order: 3
+
+- name: Yi-Ke Yan
+  role: PhD Candidate
+  photo: images/members/moren.jpg
+  bio: Large-language model and AI in cancer prevention
+  tags: [PhD]
+  order: 3
+
+- name: Qian Zhu
+  role: PhD Candidate
+  photo: images/members/moren.jpg
+  bio: Health economical modeling of cancer prevention
+  tags: [PhD]
+  order: 3
+
+- name: Yu-Qing Chen
+  role: PhD Candidate
+  photo: images/members/moren.jpg
+  bio: Proteomics markers; Aging
+  tags: [PhD]
+  order: 3
+
+- name: Zhi-Liang He
+  role: PhD Candidate
+  photo: images/members/moren.jpg
+  bio: Genetic and microbiota interaction
+  tags: [PhD]
+  order: 3
+
+- name: Xi-Ran Cheng
+  role: Master Student
+  photo: images/members/moren.jpg
+  bio: Comobidity of cancer
+  tags: [Master]
+  order: 4
+
+
+- name: Yi-Nuo Wang
+  role: Master student
+  photo: images/members/moren.jpg
+  bio: Cancer risk factor; Mendellian Randomization
+  tags: [Master]
+  order: 4
+
+
+- name: Jing-Jing Han
+  role: Master student
+  photo: images/members/moren.jpg
+  bio: Cervical cancer screening and monitering strategies
+  tags: [Master]
+  order: 4
+
+- name: Ruo-Ran Liu
+  role: Master student
+  photo: images/members/moren.jpg
+  bio: Cervical cancer screening and monitering strategies
+  tags: [Master]
+  order: 4
+
+- name: Yue-Yang Zhou
+  role: Alumini
+  photo: images/members/moren.jpg
+  bio: Fecal immunochemical test for colorectal cancer screening
+  tags: [Alumni]
+  order: 5
+
+- name: Yu-Han Zhang
+  role: Alumini
+  photo: images/members/moren.jpg
+  bio: Microbiomics in colorectal cancer
+  tags: [Alumni]
+  order: 5 
+
+- name: Bin Lu
+  role: Alumini
+  photo: images/members/moren.jpg
+  bio: Modelling of colorecta cancer screening effectiveness and cost-effectiveness
+  tags: [Alumni]
+  order: 5  

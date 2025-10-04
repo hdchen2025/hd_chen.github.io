@@ -1,0 +1,86 @@
+---
+title: "Group Members"
+page-layout: full
+format:
+  html:
+    toc: false
+    include-in-header:
+      text: |
+        <!-- 浏览器端解析 YAML -->
+        <script src="https://cdn.jsdelivr.net/npm/js-yaml@4/dist/js-yaml.min.js"></script>
+---
+
+<!-- 把 members.yml 的内容直接嵌入到页面（不再 fetch 文件） -->
+<script type="text/yaml" id="members-yaml">
+{{< include members.yml >}}
+</script>
+
+<div id="members-root" class="container-fluid">
+  <h3 class="mt-4">Principal Investigator</h3>
+  <div id="grp-PI" class="row g-4"></div>
+
+  <h3 class="mt-4">Researchers</h3>
+  <div id="grp-Scientist" class="row g-4"></div>
+
+  <h3 class="mt-4">PhD Candidates</h3>
+  <div id="grp-PhD" class="row g-4"></div>
+
+  <h3 class="mt-4">Master Students</h3>
+  <div id="grp-Master" class="row g-4"></div>
+
+  <h3 class="mt-4">Alumni</h3>
+  <div id="grp-Alumni" class="row g-4"></div>
+</div>
+
+<script>
+(function () {
+  try {
+    // 1) 读取内嵌的 YAML 文本
+    const yamlTag = document.getElementById('members-yaml');
+    const yamlText = (yamlTag && yamlTag.textContent) ? yamlTag.textContent : '';
+    const members = jsyaml.load(yamlText) || [];
+
+    // 2) 生成卡片
+    const nz = v => (v === undefined || v === null) ? '' : String(v);
+    const card = (m) => {
+      const links = [
+        m.email  ? `<a href="mailto:${nz(m.email)}" class="link-secondary">Email</a>` : '',
+        m.orcid  ? `<a href="${nz(m.orcid)}" class="link-secondary">ORCID</a>` : '',
+        m.pubmed ? `<a href="${nz(m.pubmed)}" class="link-secondary">PubMed</a>` : '',
+      ].filter(Boolean).join('<span class="mx-1">·</span>');
+
+      return `
+      <div class="col-6 col-md-3">
+        <div class="card h-100 shadow-sm member-card">
+          <img src="${nz(m.photo)}" class="card-img-top member-photo" alt="${nz(m.name)}">
+          <div class="card-body">
+            <h5 class="card-title mb-1">${nz(m.name)}</h5>
+            <p class="text-muted small mb-2">${nz(m.role)}</p>
+            <p class="card-text small mb-2">${nz(m.bio)}</p>
+            <div class="d-flex gap-3 small">${links}</div>
+          </div>
+        </div>
+      </div>`;
+    };
+
+    // 3) 分组 + 排序并渲染
+    const groups = ["PI","Scientist","PhD","Master","Alumni"];
+    for (const g of groups){
+      const list = members
+        .filter(m => Array.isArray(m.tags) && m.tags.includes(g))
+        .sort((a,b) => (a.order ?? 1e9) - (b.order ?? 1e9));
+      const mount = document.getElementById('grp-' + g);
+      if (mount && list.length) {
+        mount.innerHTML = list.map(card).join('');
+      } else if (mount) {
+        mount.previousElementSibling?.classList.add('d-none');
+        mount.classList.add('d-none');
+      }
+    }
+  } catch (e) {
+    console.error(e);
+    const root = document.getElementById('members-root');
+    if (root) root.innerHTML = `<div class="alert alert-warning">Failed to parse members.yml: ${e.message}</div>`;
+  }
+})();
+</script>

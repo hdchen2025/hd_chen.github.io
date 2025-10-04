@@ -148,3 +148,26 @@ h4 {
   background-size: 1em;
   background-position: 1em 0.5em;
 }
+---
+
+.member-photo { aspect-ratio: 1 / 1; object-fit: cover; border-radius: 50%; }
+.member-card  { border-radius: 1rem; }
+.member-card .card-title { font-weight: 600; }
+
+/* 可选：让页面更宽一点 */
+main.content, .content.page-columns { max-width: 1200px; }
+.member-photo {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 0 auto;
+  display: block;
+}
+
+@media (min-width: 768px) {
+  .member-photo {
+    width: 150px;
+    height: 150px;
+  }
+}

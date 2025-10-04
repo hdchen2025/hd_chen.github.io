@@ -1,6 +1,6 @@
 ---
 title: "Hongda CHEN"
-image: images/hongdachen_2025.jpg 
+image: images/hongdachen_personal.png 
 about:
   id: hero-heading
   template: trestles
@@ -18,7 +18,7 @@ about:
       href: https://pubmed.ncbi.nlm.nih.gov/?term=(%22Chen%20Hongda%22%5BAuthor%5D)%20AND%20(%22Chinese%20Academy%20of%20Medical%20Sciences%22%5BAffiliation%5D%20OR%20%22Peking%20Union%20Medical%20College%20Hospital%22%5BAffiliation%5D%20OR%20%22German%20Cancer%20Research%20Center%22%5BAffiliation%5D)&sort=date
     - icon: fingerprint
       text: ORCID
-      href: https://orcid.org/my-orcid?orcid=0000-0001-6171-1162
+      href: https://orcid.org/0000-0001-6171-1162
     # - #icon: brands zhihu
       # text: 知乎
       # href: https://www.zhihu.com/people/arlionn/
@@ -41,23 +41,29 @@ about:
 
 ::: {#hero-heading}
 
-Dr. Hongda Chen is a Professor at Peking Union Medical College Hospital (PUMCH) and the chief of the Center for Prevention and Early Intervention of the National Infrastructure for Translational Medicine (PUMCH branch). He received his Bachelor of Preventive Medicine and Master of Epidemiology and Biostatistics from Peking University (2005–2012), and his PhD in Cancer Epidemiology from the German Cancer Research Center (DKFZ) and Heidelberg University (2013–2016), followed by postdoctoral research at DKFZ.
+Dr. Hongda Chen is a Professor at Peking Union Medical College Hospital (PUMCH) of the Chinese Academy of Medical Sciences & Peking Union Medical College, and the chief of the Center for Prevention and Early Intervention of the National Infrastructure for Translational Medicine (PUMCH branch). He received his Bachelor of Preventive Medicine (2010) and Master of Epidemiology and Biostatistics (2012) from Peking University, and his PhD in Cancer Epidemiology (2016) from the German Cancer Research Center (DKFZ) and Heidelberg University, followed by postdoctoral research at DKFZ.
 
-His research centers on cancer epidemiology, with a particular focus on cancer prevention and early detection. Dr. Chen has published more than 80 peer-reviewed papers in leading journals such as Science Bulletin, Gut, Clinical Cancer Research, Clinical Gastroenterology and Hepatology, and American Journal of Gastroenterology, with an H-index of 37. He has led over 10 major research projects, including grants from the National Natural Science Foundation of China and national key R&D programs. In 2025, he was recognized by Stanford University and Elsevier as one of the world’s top 2% most-cited scientists.
+His research centers on cancer epidemiology, with a particular focus on cancer prevention and early detection techniques/strategies. Dr. Chen has published more than 80 peer-reviewed papers in leading journals such as Science Bulletin, Gut, Clinical Cancer Research, Clinical Gastroenterology and Hepatology, and American Journal of Gastroenterology, with an H-index of 37. He has led over 10 major research projects, including grants from the National Natural Science Foundation of China and national key R&D programs. In 2025, he was recognized by Stanford University and Elsevier as one of the world’s top 2% most-cited scientists.
 
 He serves on several national academic committees related to cancer screening and prevention, and as reviewer for leading journals including BMJ, Nature Medicine, JAMA Internal Medicine, and Lancet Gastroenterology & Hepatology.
 
+### Education Background
 
-## Education Background
+| Period               | Institution & Degree |
+|----------------------|----------------------|
+| Sep. 2005 – Jul. 2010 | Peking University, China<br>Bachelor in Preventive Medicine |
+| Sep. 2010 – Jul. 2012 | Peking University, China<br>Master in Epidemiology and Biostatistics |
+| Jan. 2013 – Jun. 2016 | University of Heidelberg / German Cancer Research Center, Germany<br>Ph.D. in Epidemiology |
 
-- Sep. 2005 - Jul. 2010  Peking University, China, Bechelor in Preventive Medicine
-- Sep. 2010 - Jul. 2012  Peking University, China, Master in Epidemiology and Biostatistics
-- Jan. 2013 - Jun. 2016  University of Heidelberg, German Cancer Research Center, Germany, Ph.D. in Epidemiology
+---
 
-## Working Experience
-- Feb. 2016 – Jun. 2016 German Cancer Research Center (DKFZ), Postdoc Research Fellow
-- Aug. 2016 – Aug. 2019 National Cancer Center/Cancer Hospital of Chinese Academy of Medical Sciences, Office of Cancer Screening, assistant professor
-- Sep. 2019 – Feb.2022 National Cancer Center/Cancer Hospital of Chinese Academy of Medical Sciences, Office of Cancer Screening, associated professor
-- Sep. 2019 – Sep.2024 Peking Union Medical College Hospital (PUCMH), Center for Prevention and Early Intervention, associated professor
-- Sep. 2025 - present Peking Union Medical College Hospital (PUCMH), Center for Prevention and Early Intervention, professor
+### Working Experience
+
+| Period               | Institution & Position |
+|----------------------|-------------------------|
+| Feb. 2016 – Jun. 2016 | German Cancer Research Center (DKFZ)<br>Postdoc Research Fellow |
+| Aug. 2016 – Aug. 2019 | National Cancer Center<br>Assistant Professor |
+| Sep. 2019 – Feb. 2022 | National Cancer Center<br>Associate Professor |
+| Sep. 2019 – Sep. 2024 | Peking Union Medical College Hospital<br>Chinese Academy of Medical Sciences & Peking Union Medical College<br>Center for Prevention and Early Intervention<br>Associate Professor |
+| Sep. 2024 – present  | Peking Union Medical College Hospital<br>Chinese Academy of Medical Sciences & Peking Union Medical College<br>Chief of the Center for Prevention and Early Intervention<br>Professor |
 :::
