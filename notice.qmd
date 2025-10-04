@@ -1,0 +1,17 @@
+---
+title: "Notice"
+page-layout: full
+format:
+  html:
+    toc: false
+    css: notice.css   # ✅ 引用样式文件
+---
+
+Welcome to the lab notice board.  
+Here we will post **announcements and important updates**.
+
+---
+
+## 📢 Latest Announcements
+
+

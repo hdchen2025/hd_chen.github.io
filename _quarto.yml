@@ -9,7 +9,7 @@ project:
 
 website:
   page-navigation: true
-  title: "Dr. Hongda Chen's Lab at PUMCH"
+  title: "Dr. H. Chen's Group at PUMCH"
   # 若这是用户主页仓库（hdchen2025.github.io），建议改成你的实际域名：
   # site-url: https://hdchen2025.github.io
   site-url: https://hd_chen.github.io
@@ -29,6 +29,8 @@ website:
         href: members.qmd
       - text: "Publications"
         href: publications-english.qmd
+      - text: "Notice"
+        href: notice.qmd
 
 format:
   html:

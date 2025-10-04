@@ -9,12 +9,49 @@
   tags: [PI]
   order: 1
 
-- name: Dr. Yuelun Zhang
+- name: Dr. Min Dai
+  role: PI · Professor
+  photo: images/members/daimin.jpg
+  bio: Cancer Epidemiology; Cancer screening
+  pubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=Min+Dai%5BAuthor%5D+AND+Chinese+Academy+of+Medical+Sciences%5BAffiliation%5D&sort=pubdate"
+  tags: [PI]
+  order: 1
+
+
+- name: Dr. Yue-Lun Zhang
   role: Scientist
   photo: images/members/moren.jpg
   bio: Clinical epidemiology; Evidence-based medicine.
   email: yuelunzhang@outlook.com
   orcid: "https://orcid.org/0000-0001-7990-9003"
+  tags: [Scientist]
+  order: 2
+
+- name: Dr. Nan Zhao
+  role: Scientist
+  photo: images/members/moren.jpg
+  bio: Clinical epidemiology; Enviromental Epidemiology
+  tags: [Scientist]
+  order: 2
+
+- name: Dr. Kai Sun
+  role: Scientist
+  photo: images/members/moren.jpg
+  bio: Clinical epidemiology; Cardiovascular epidemiology
+  tags: [Scientist]
+  order: 2
+
+- name: Dr. Hai-Yu Pang
+  role: Scientist
+  photo: images/members/moren.jpg
+  bio: Clinical epidemiology; Biostatistics
+  tags: [Scientist]
+  order: 2
+
+- name: Dr. Ding-Ding Zhang
+  role: Scientist
+  photo: images/members/moren.jpg
+  bio: Clinical epidemiology; Cardiovascular epidemiology 
   tags: [Scientist]
   order: 2
 

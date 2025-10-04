@@ -1,5 +1,5 @@
 ---
-title: "Hongda CHEN"
+title: "Hongda CHEN, Ph.D."
 image: images/hongdachen_personal.png 
 about:
   id: hero-heading
