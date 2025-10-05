@@ -126,24 +126,3 @@
   bio: Cervical cancer screening and monitering strategies
   tags: [Master]
   order: 4
-
-- name: Yue-Yang Zhou
-  role: Alumini
-  photo: images/members/moren.jpg
-  bio: Fecal immunochemical test for colorectal cancer screening
-  tags: [Alumni]
-  order: 5
-
-- name: Dr. Yu-Han Zhang
-  role: Alumini
-  photo: images/members/moren.jpg
-  bio: Microbiomics in colorectal cancer
-  tags: [Alumni]
-  order: 5 
-
-- name: Dr. Bin Lu
-  role: Alumini
-  photo: images/members/moren.jpg
-  bio: Modelling of colorecta cancer screening effectiveness and cost-effectiveness
-  tags: [Alumni]
-  order: 5  
