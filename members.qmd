@@ -4,6 +4,7 @@ page-layout: full
 format:
   html:
     toc: false
+    theme: flatly
     include-in-header:
       text: |
         <!-- 浏览器端解析 YAML -->

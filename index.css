@@ -1,0 +1,134 @@
+/* =========================================================
+   Dr. Hongda Chen Personal Page – Enhanced Journal Theme
+   ========================================================= */
+
+/* 全局排版 */
+body {
+  font-family: "Source Sans Pro", "Segoe UI", Helvetica, Arial, sans-serif !important;
+  color: #2d2d2d !important;
+  background-color: #f9fbf8 !important;
+  line-height: 1.75 !important;
+  max-width: 960px !important;
+  margin: 0 auto !important;
+  padding: 1.5rem !important;
+}
+
+/* 标题样式 */
+h1, h2, h3 {
+  color: #265c37 !important;
+  font-weight: 600 !important;
+}
+h3 {
+  border-left: 4px solid #2a5a3a !important;
+  padding-left: 10px !important;
+  margin-top: 2em !important;
+  background: linear-gradient(to right, #edf6f0, transparent) !important;
+  border-radius: 4px !important;
+}
+
+/* Hero 区块整体 */
+#hero-heading.about-entity {
+  background: linear-gradient(135deg, #f0f7f1, #e7f4eb) !important;
+  padding: 2.5rem 2rem !important;
+  border-radius: 16px !important;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.07) !important;
+  margin-bottom: 2rem !important;
+}
+
+/* 头像部分 */
+.about-entity .about-image img {
+  border-radius: 50% !important;
+  border: 3px solid #d7eadf !important;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1) !important;
+  transition: transform 0.3s ease !important;
+}
+.about-entity .about-image img:hover {
+  transform: scale(1.05) !important;
+}
+
+/* 内容区段落 */
+.about-entity .about-content p {
+  font-size: 1.05rem !important;
+  color: #2f332f !important;
+}
+
+/* 强调文字（strong） */
+.about-entity .about-content strong {
+  color: #1b4d2b !important;
+  font-weight: 600 !important;
+  background-color: #e9f6eb !important;
+  padding: 1px 5px !important;
+  border-radius: 4px !important;
+}
+
+/* 机构名 / 单位名自动加底色 */
+.about-entity .about-content p:has(> a[href*="pumch"]),
+.about-entity .about-content p:has(> a[href*="cams"]),
+.about-entity .about-content p:has(> a[href*="heidelberg"]),
+.about-entity .about-content p:has(> a[href*="dkfz"]) {
+  background: linear-gradient(to right, #f4faf6, transparent) !important;
+  border-left: 3px solid #84c29a !important;
+  padding-left: 6px !important;
+  border-radius: 3px !important;
+}
+
+/* 表格样式 */
+table {
+  width: 100% !important;
+  border-collapse: collapse !important;
+  margin-top: 1em !important;
+  border-radius: 10px !important;
+  overflow: hidden !important;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.05) !important;
+}
+th {
+  background-color: #e8f4ec !important;
+  color: #2a5a3a !important;
+  font-weight: 600 !important;
+}
+td, th {
+  padding: 0.8em 1em !important;
+  border-bottom: 1px solid #e3e3e3 !important;
+}
+tr:hover td {
+  background-color: #f4faf5 !important;
+}
+
+/* 链接按钮 */
+.about-links a {
+  background-color: #eaf7eb !important;
+  color: #265c37 !important;
+  padding: 0.45em 0.9em !important;
+  border-radius: 8px !important;
+  font-weight: 500 !important;
+  text-decoration: none !important;
+  transition: all 0.25s ease !important;
+  border: 1px solid #cbe8cc !important;
+}
+.about-links a:hover {
+  background-color: #265c37 !important;
+  color: #fff !important;
+  border-color: #265c37 !important;
+}
+
+/* Footer */
+body > footer {
+  margin-top: 3rem !important;
+  padding-top: 1.5rem !important;
+  border-top: 1px solid #eaeaea !important;
+  text-align: center !important;
+  color: #777 !important;
+  font-size: 0.9rem !important;
+}
+
+/* 响应式 */
+@media (max-width: 768px) {
+  #hero-heading {
+    text-align: center !important;
+    padding: 2rem 1rem !important;
+  }
+  .about-links {
+    flex-direction: column !important;
+    align-items: center !important;
+  }
+}

@@ -4,6 +4,7 @@ page-layout: full
 format:
   html:
     css: project.css
+    theme: flatly
 ---
 
 Our group is currently conducting several interdisciplinary projects focusing on **precision prevention, early detection, and clinical research methodology**.  

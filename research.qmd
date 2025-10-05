@@ -6,6 +6,7 @@ format:
     toc: false
     css: research.css
     title-block-style: none
+    theme: flatly
 ---
 
 ::: {.research-grid}

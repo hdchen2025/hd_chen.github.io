@@ -1,69 +1,89 @@
 ---
 title: "Hongda CHEN, Ph.D."
+format:
+  html:
+    theme: flatly
+    toc: false
+    smooth-scroll: true
+    page-layout: full
 image: images/hongdachen_personal.png 
 about:
   id: hero-heading
   template: trestles
-  image-width: 12em
+  image-width: 13em
   image-shape: round
   links:
     - icon: mailbox
       text: chenhongda at pumch.cn
       href: mailto:chenhongda@pumch.cn
-    # - icon: github
-      # text: arlionn
-      # href: https://github.com/hdchen2025
     - icon: publication
       text: PubMed
       href: https://pubmed.ncbi.nlm.nih.gov/?term=(%22Chen%20Hongda%22%5BAuthor%5D)%20AND%20(%22Chinese%20Academy%20of%20Medical%20Sciences%22%5BAffiliation%5D%20OR%20%22Peking%20Union%20Medical%20College%20Hospital%22%5BAffiliation%5D%20OR%20%22German%20Cancer%20Research%20Center%22%5BAffiliation%5D)&sort=date
     - icon: fingerprint
       text: ORCID
       href: https://orcid.org/0000-0001-6171-1162
-    # - #icon: brands zhihu
-      # text: 知乎
-      # href: https://www.zhihu.com/people/arlionn/
-    #- # icon: brands weibo
-      # text: 微博
-      # href: https://weibo.com/arlionn
-    # - # icon: brands xing
-      # text: 小红书
-      # href: https://www.xiaohongshu.com/user/profile/682968d9000000000a03da1a
     - icon: solid user
       text: 工作主页
       href: https://www.pumch.cn/temporary/doctor_details/33670.html
-    # - # icon: brands home
-      # text: 连享会
-      # href: https://www.lianxh.cn
-    # - icon: 📝
-      # text: CV
-      # href: CV.pdf  
 ---
 
-::: {#hero-heading}
-
+::: {.callout}
 Dr. Hongda Chen is a Professor at Peking Union Medical College Hospital (PUMCH) of the Chinese Academy of Medical Sciences & Peking Union Medical College, and the chief of the Center for Prevention and Early Intervention of the National Infrastructure for Translational Medicine (PUMCH branch). He received his Bachelor of Preventive Medicine (2010) and Master of Epidemiology and Biostatistics (2012) from Peking University, and his PhD in Cancer Epidemiology (2016) from the German Cancer Research Center (DKFZ) and University of Heidelberg in Germany, followed by postdoctoral research at DKFZ.
 
 His research centers on cancer epidemiology, with a particular focus on cancer prevention and early detection techniques/strategies. Dr. Chen has published more than 80 peer-reviewed papers in leading journals such as Science Bulletin, Gut, Clinical Cancer Research, Clinical Gastroenterology and Hepatology, and American Journal of Gastroenterology, with an H-index of 37. He has led over 10 major research projects, including grants from the National Natural Science Foundation of China and national key R&D programs. In 2025, he was recognized on the World’s Top 2% Scientists List, jointly released by Stanford University and Elsevier.
 
-Dr. Chen serves on several national academic committees on cancer screening and prevention, and acts as a reviewer for top-tier journals, including the BMJ, Nature portfolio journals, JAMA series journals, and the Lancet family of journals. 
+Dr. Chen serves on several national academic committees on cancer screening and prevention, and acts as a reviewer for top-tier journals, including the BMJ, Nature portfolio journals, JAMA series journals, and the Lancet family of journals.
+:::
+---
 
-### Education Background
+## 🎓 Education Background
 
-| Period               | Institution & Degree |
-|----------------------|----------------------|
-| Sep. 2005 – Jul. 2010 | Peking University, China<br>Bachelor in Preventive Medicine |
-| Sep. 2010 – Jul. 2012 | Peking University, China<br>Master in Epidemiology and Biostatistics |
-| Jan. 2013 – Jun. 2016 | University of Heidelberg / German Cancer Research Center, Germany<br>Ph.D. in Epidemiology |
+| Period | Institution & Degree |
+|:------:|:----------------------|
+| **Sep. 2005 – Jul. 2010** | Peking University, China<br>Bachelor in Preventive Medicine |
+| **Sep. 2010 – Jul. 2012** | Peking University, China<br>Master in Epidemiology and Biostatistics |
+| **Jan. 2013 – Jun. 2016** | University of Heidelberg / German Cancer Research Center, Germany<br>Ph.D. in Epidemiology |
 
 ---
 
-### Working Experience
+## 💼 Working Experience
 
-| Period               | Institution & Position |
-|----------------------|-------------------------|
-| Feb. 2016 – Jun. 2016 | German Cancer Research Center (DKFZ)<br>Postdoc Research Fellow |
-| Aug. 2016 – Aug. 2019 | National Cancer Center, China/Cancer Hospital Chinese Academy of Medical Sciences<br>Office of Cancer Screening<br>Assistant Professor |
-| Sep. 2019 – Feb. 2022 | National Cancer Center, China/Cancer Hospital Chinese Academy of Medical Sciences<br>Office of Cancer Screening<br>Associate Professor |
-| Sep. 2019 – Sep. 2024 | Peking Union Medical College Hospital(PUMCH)<br>Chinese Academy of Medical Sciences & Peking Union Medical College<br>Center for Prevention and Early Intervention<br>Associate Professor |
-| Sep. 2024 – present  | Peking Union Medical College Hospital (PUMCH)<br>Chinese Academy of Medical Sciences & Peking Union Medical College<br>Center for Prevention and Early Intervention, Chief<br>Professor |
+| Period | Institution & Position |
+|:------:|:-------------------------|
+| **Feb. 2016 – Jun. 2016** | German Cancer Research Center (DKFZ)<br>Postdoc Research Fellow |
+| **Aug. 2016 – Aug. 2019** | National Cancer Center, China/Cancer Hospital Chinese Academy of Medical Sciences<br>Office of Cancer Screening<br>Assistant Professor |
+| **Sep. 2019 – Feb. 2022** | National Cancer Center, China/Cancer Hospital Chinese Academy of Medical Sciences<br>Office of Cancer Screening<br>Associate Professor |
+| **Sep. 2019 – Sep. 2024** | Peking Union Medical College Hospital (PUMCH)<br>Chinese Academy of Medical Sciences & Peking Union Medical College<br>Center for Prevention and Early Intervention<br>Associate Professor |
+| **Sep. 2024 – present** | Peking Union Medical College Hospital (PUMCH)<br>Chinese Academy of Medical Sciences & Peking Union Medical College<br>Center for Prevention and Early Intervention, Chief<br>Professor |
+
+---
+
+## 🧬 Academic Societies
+
+::: {.callout}
+
+| Society / 学会 | Committee / 专业委员会 | Role / 职务 |
+|:--|:--|:--|
+| Chinese Association for Health Promotion and Education<br>（中国健康促进与教育协会） | Committee of Cancer Screening and Prevention<br>（肿瘤筛查和预防专委会） | Standing Member / Secretary-General<br>（常委 / 秘书长） |
+| Chinese Preventive Medicine Association<br>（中华预防医学会） | Epidemiology Branch<br>（流行病学分会） | Member<br>（委员） |
+| Chinese Preventive Medicine Association<br>（中华预防医学会） | Cancer Prevention and Control Committee<br>（肿瘤预防与控制专委会） | Member<br>（委员） |
+| Chinese Anti-Cancer Association<br>（中国抗癌协会） | Cancer Epidemiology Committee<br>（肿瘤流行病学专委会） | Member<br>（委员） |
+
+:::
+
+---
+## 🏅 Honors & Awards
+
+::: {.callout}
+
+| Year | Award | Organization |
+|:--|:--|:--|
+| **2025** | World’s Top 2% Scientists List | Stanford University and Elsevier |
+| **2025** | Outstanding Educator | Peking Union Medical College (PUMC) |
+| **2024** | Advanced Contributor to Social Practice | Peking Union Medical College |
+| **2024** | Top 1% Highly Cited Chinese Scholar | China National Knowledge Infrastructure (CNKI) |
+| **2023** | Advanced Contributor to Social Practice | Peking Union Medical College (PUMC) |
+| **2021** | UICC Technical Fellowship | Union for International Cancer Control (UICC) |
+| **2019** | Beijing Science and Technology Nova | Beijing Municipal Science & Technology Commission |
+
 :::

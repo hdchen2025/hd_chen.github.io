@@ -4,6 +4,7 @@ format:
   html:
     toc: false
     css: publications.css
+    theme: flatly
 page-layout: full
 ---
 

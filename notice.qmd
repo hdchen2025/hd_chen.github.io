@@ -4,6 +4,7 @@ page-layout: full
 format:
   html:
     toc: false
+    theme: flatly
     css: notice.css   # ✅ 引用样式文件
 ---
 
