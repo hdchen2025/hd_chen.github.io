@@ -44,8 +44,8 @@ Investigating how lifestyle factors (diet, physical activity, smoking, alcohol, 
 :::
 
 ::: {.project-card}
-### Plasma Protein Biomarker for Cancer Screening
-Using mass spectrometry–based plasma proteomics to discover and validate circulating protein biomarkers for early colorectal cancer detection. By integrating proteomic, genetic, and clinical data, this project enhances non-invasive early-detection tools.
+### Novel plasma proteomics-based colorectal cancer screening biomarker
+Using mass spectrometry–based plasma proteomics to discover and validate circulating protein biomarkers for early colorectal cancer detection. By integrating proteomic, genetic, and clinical data, this project enhances non-invasive colorectal cancer screening and early-detection tools.
 :::
 
 ::: {.project-card}
@@ -60,7 +60,12 @@ Developing a combined screening strategy for upper GI and colorectal cancers in 
 
 ::: {.project-card}
 ### Global Lifetime Risk and Preventable Burden of Colorectal Cancer
-Quantifying the global lifetime risk and preventable incidence of colorectal cancer attributable to modifiable risk factors (2022–2050) across 185 countries, using comparative modeling to guide international prevention policies.
+Quantifying the global lifetime risk and preventable incidence of colorectal cancer attributable to modifiable risk factors across countries worldwide. This study will use comparative modeling and population-attributable risk estimation to assess regional variations and identify the potential impact of targeted prevention strategies, providing evidence to guide international cancer prevention and screening policies.
+:::
+
+::: {.project-card}
+### Cervical cancer screening and triaging strategy
+For women at high risk of cervical cancer, this study will evaluate the effectiveness of E6/E7 mRNA testing, DNA methylation markers, dual-stain cytology (p16/Ki-67), and conventional cytology in triaging hrHPV-positive cases. We aim to compare their diagnostic performance and explore the optimal triaging strategy that achieves a balance between accuracy, feasibility, and cost-effectiveness.
 :::
 
 :::
