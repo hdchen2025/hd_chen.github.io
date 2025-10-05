@@ -36,7 +36,7 @@ Dr. Chen serves on several national academic committees on cancer screening and 
 :::
 ---
 
-## 🎓 Education Background
+## Education Background
 
 | Period | Institution & Degree |
 |:------:|:----------------------|
@@ -46,7 +46,7 @@ Dr. Chen serves on several national academic committees on cancer screening and 
 
 ---
 
-## 💼 Working Experience
+## Working Experience
 
 | Period | Institution & Position |
 |:------:|:-------------------------|
@@ -58,21 +58,21 @@ Dr. Chen serves on several national academic committees on cancer screening and 
 
 ---
 
-## 🧬 Academic Societies
+## Academic Societies
 
 ::: {.callout}
 
-| Society / 学会 | Committee / 专业委员会 | Role / 职务 |
+| Society | Committee | Role  |
 |:--|:--|:--|
-| Chinese Association for Health Promotion and Education<br>（中国健康促进与教育协会） | Committee of Cancer Screening and Prevention<br>（肿瘤筛查和预防专委会） | Standing Member / Secretary-General<br>（常委 / 秘书长） |
-| Chinese Preventive Medicine Association<br>（中华预防医学会） | Epidemiology Branch<br>（流行病学分会） | Member<br>（委员） |
-| Chinese Preventive Medicine Association<br>（中华预防医学会） | Cancer Prevention and Control Committee<br>（肿瘤预防与控制专委会） | Member<br>（委员） |
-| Chinese Anti-Cancer Association<br>（中国抗癌协会） | Cancer Epidemiology Committee<br>（肿瘤流行病学专委会） | Member<br>（委员） |
+| Chinese Association for Health Promotion and Education | Committee of Cancer Screening and Prevention | Standing Member / Secretary-General |
+| Chinese Preventive Medicine Association | Epidemiology Branch | Member |
+| Chinese Preventive Medicine Association | Cancer Prevention and Control Committee| Member |
+| Chinese Anti-Cancer Association| Cancer Epidemiology Committee | Member |
 
 :::
 
 ---
-## 🏅 Honors & Awards
+## Honors & Awards
 
 ::: {.callout}
 
