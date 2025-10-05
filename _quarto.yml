@@ -28,7 +28,7 @@ website:
       - text: "Group Members"
         href: members.qmd
       - text: "Publications"
-        href: publications-english.qmd
+        href: publications.qmd
       - text: "Notice"
         href: notice.qmd
 

@@ -71,7 +71,7 @@
 
 - name: Jia-Hui Luo
   role: PhD Candidate
-  photo: images/members/moren.jpg
+  photo: images/members/luojiahui.jpg
   bio: Microbiome in colorectal cancer 
   tags: [PhD]
   order: 3
@@ -85,7 +85,7 @@
 
 - name: Qian Zhu
   role: PhD Candidate
-  photo: images/members/moren.jpg
+  photo: images/members/zhuqian.jpg
   bio: Health economical modeling of cancer prevention
   tags: [PhD]
   order: 3
@@ -106,7 +106,7 @@
 
 - name: Xin-Ran Cheng
   role: Master Student
-  photo: images/members/moren.jpg
+  photo: images/members/chengxinran.jpg
   bio: Comobidity of cancer
   tags: [Master]
   order: 4
