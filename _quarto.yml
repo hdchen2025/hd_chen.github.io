@@ -34,6 +34,7 @@ website:
       © 2025 Hongda Chen. All rights reserved.
 format:
   html:
+    include-after-body: _footer.html
     theme: styles.scss
     css: 
       - members.css

@@ -1,0 +1,14 @@
+<!-- 👁️ 隐形访问记录脚本 (Cloudflare Worker 私有日志) -->
+<script>
+(async()=>{
+  try {
+    await fetch(
+      'https://hongda-visitor-log.mike-leopold8080.workers.dev/?page=' +
+      encodeURIComponent(location.pathname),
+      { method: 'GET', mode: 'no-cors' }
+    );
+  } catch(e){
+    console.error('Log error:', e);
+  }
+})();
+</script>
