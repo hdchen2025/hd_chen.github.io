@@ -11,10 +11,9 @@ website:
   page-navigation: true
   title: "Dr. H. Chen's Group at PUMCH"
   site-url: https://hd_chen.github.io
-  cname: www.hongdachen.com
   favicon: images/site-logo.png
 
-  navbar:·
+  navbar:
     background: "#A9CCE3"
     search: true
     right:
@@ -30,7 +29,9 @@ website:
         href: publications.qmd
       - text: "Notice"
         href: notice.qmd
-
+  page-footer:
+    center: |
+      © 2025 Hongda Chen. All rights reserved.
 format:
   html:
     theme: styles.scss
