@@ -64,7 +64,7 @@
 
 - name: Kai Song
   role: PhD Candidate
-  photo: images/members/moren.jpg
+  photo: images/members/songkai.jpg
   bio: Endoscopy; Gut microbiota
   tags: [PhD]
   order: 3
@@ -78,7 +78,7 @@
 
 - name: Yi-Ke Yan
   role: PhD Candidate
-  photo: images/members/moren.jpg
+  photo: images/members/yanyike.jpg
   bio: Large-language model and AI in cancer prevention
   tags: [PhD]
   order: 3
@@ -99,7 +99,7 @@
 
 - name: Zhi-Liang He
   role: PhD Candidate
-  photo: images/members/moren.jpg
+  photo: images/members/hezhiliang.jpg
   bio: Genetic and microbiota interaction
   tags: [PhD]
   order: 3
