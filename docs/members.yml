@@ -1,6 +1,6 @@
 # 建议把头像放到 images/members/ 下
 - name: Dr. Hongda Chen
-  role: PI
+  role: PI, Professor
   photo: images/members/chenhongda.png
   bio: Cancer Epidemiology; Cancer screening; PRS; microbiome; Multi-omics; risk-adapted screening
   email: chenhongda@pumch.cn
