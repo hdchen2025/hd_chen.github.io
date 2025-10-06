@@ -8,7 +8,7 @@ format:
 ---
 
 Our group is currently conducting several interdisciplinary projects focusing on **precision prevention, early detection, and clinical research methodology**.  
-These projects integrate **genomics, microbiome, AI/LLMs, and health policy modeling**, aiming to transform colorectal cancer screening and prevention strategies in China and globally.
+These projects integrate **genomics, microbiome, AI/LLMs, and health policy modeling**, aiming to transform cancer screening and prevention strategies in China and globally.
 
 ---
 
