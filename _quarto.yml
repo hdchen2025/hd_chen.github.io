@@ -10,12 +10,11 @@ project:
 website:
   page-navigation: true
   title: "Dr. H. Chen's Group at PUMCH"
-  # 若这是用户主页仓库（hdchen2025.github.io），建议改成你的实际域名：
-  # site-url: https://hdchen2025.github.io
   site-url: https://hd_chen.github.io
+  cname: www.hongdachen.com
   favicon: images/site-logo.png
 
-  navbar:
+  navbar:·
     background: "#A9CCE3"
     search: true
     right:
@@ -44,4 +43,5 @@ format:
       body-width: 1280px
       margin-width: 200px
       gutter-width: 1.5rem
+
      
