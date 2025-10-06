@@ -1,6 +1,6 @@
 # 建议把头像放到 images/members/ 下
 - name: Dr. Hongda Chen
-  role: PI · Professor
+  role: PI
   photo: images/members/chenhongda.png
   bio: Cancer Epidemiology; Cancer screening; PRS; microbiome; Multi-omics; risk-adapted screening
   email: chenhongda@pumch.cn
@@ -9,8 +9,8 @@
   tags: [PI]
   order: 1
 
-- name: Dr. Min Dai
-  role: PI · Professor
+- name: Prof. Min Dai 
+  role: Collaborating PI
   photo: images/members/daimin.jpg
   bio: Cancer Epidemiology; Cancer screening
   pubmed: "https://pubmed.ncbi.nlm.nih.gov/?term=Min+Dai%5BAuthor%5D+AND+Chinese+Academy+of+Medical+Sciences%5BAffiliation%5D&sort=pubdate"
