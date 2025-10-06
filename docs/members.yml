@@ -57,7 +57,7 @@
 
 - name: Chen-Yu Luo
   role: PhD Candidate
-  photo: images/members/luochenyu.jpg
+  photo: images/members/luochenyu.JPG
   bio: Polygenic risk score × lifestyle
   tags: [PhD]
   order: 3
@@ -106,14 +106,14 @@
 
 - name: Xin-Ran Cheng
   role: Master Student
-  photo: images/members/chengxinran.jpg
+  photo: images/members/chengxinran.JPG
   bio: Comobidity of cancer
   tags: [Master]
   order: 4
 
 - name: Yi-Nuo Wang
   role: Master student
-  photo: images/members/wangyinuo.jpg
+  photo: images/members/wangyinuo.JPG
   bio: Cancer risk factor; Mendellian Randomization
   tags: [Master]
   order: 4
